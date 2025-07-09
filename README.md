@@ -15,6 +15,7 @@ Contribute OSS when available 🚀
 
 ## Funny
 + [dogecoin-lunar-calendar](https://github.com/rhodey/dogecoin-lunar-calendar)
++ [dogecoin-lunar-investigation](https://github.com/rhodey/dogecoin-lunar-investigation)
 + [AI-Ching-PDF](https://github.com/rhodey/AI-Ching-PDF)
 + [AI-Ching-Mobile](https://github.com/rhodey/AI-Ching-Mobile)
 
