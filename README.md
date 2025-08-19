@@ -13,9 +13,9 @@ Contribute OSS when available 🚀
 + [rtl_p25](https://github.com/rhodey/rtl_p25)
 + [radiowitness](https://github.com/rhodey/radiowitness)
 
-## Funny
-+ [dogecoin-lunar-calendar](https://github.com/rhodey/dogecoin-lunar-calendar)
-+ [dogecoin-lunar-investigation](https://github.com/rhodey/dogecoin-lunar-investigation)
+## Fun
++ [bizcardz.ai](https://github.com/rhodey/bizcardz.ai)
++ [dogecoincalendar.com](https://github.com/rhodey/dogecoincalendar.com)
 + [AI-Ching-PDF](https://github.com/rhodey/AI-Ching-PDF)
 + [AI-Ching-Mobile](https://github.com/rhodey/AI-Ching-Mobile)
 
