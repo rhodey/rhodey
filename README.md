@@ -1,6 +1,6 @@
-Work full time at velo.xyz 🚀
+Work at velo.xyz 🚀
 
-Contribute OSS when available 🚀
+OSS when available 🚀
 
 ## Web
 + [bhr](https://github.com/rhodey/bhr)
