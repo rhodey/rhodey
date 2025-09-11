@@ -20,6 +20,7 @@ OSS when available 🚀
 + [AI-Ching-Mobile](https://github.com/rhodey/AI-Ching-Mobile)
 
 ## Crypto
++ [lock.host](https://github.com/rhodey/lock.host)
 + [limit-order-book](https://github.com/rhodey/limit-order-book)
 + [ethereum-dns-rebind](https://github.com/rhodey/ethereum-dns-rebind)
 + [hypercore-pipe](https://github.com/rhodey/hypercore-pipe)
