@@ -10,9 +10,9 @@ OSS when available 🚀
 
 ## Crypto
 + [lock.host](https://github.com/rhodey/lock.host)
++ [tinyraftplus](https://github.com/rhodey/tinyraftplus)
++ [sqlitesuperfs](https://github.com/rhodey/sqlitesuperfs)
 + [limit-order-book](https://github.com/rhodey/limit-order-book)
-+ [ethereum-dns-rebind](https://github.com/rhodey/ethereum-dns-rebind)
-+ [hypercore-pipe](https://github.com/rhodey/hypercore-pipe)
 
 ## Radio
 + [rtl_rs](https://github.com/rhodey/rtl_rs)
