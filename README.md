@@ -21,6 +21,7 @@ OSS when available 🚀
 
 ## Fun
 + [bizcardz.ai](https://github.com/rhodey/bizcardz.ai)
++ [hecate.video](https://github.com/rhodey/hecate)
 + [dogecoincalendar.com](https://github.com/rhodey/dogecoincalendar.com)
 + [AI-Ching-PDF](https://github.com/rhodey/AI-Ching-PDF)
 + [AI-Ching-Mobile](https://github.com/rhodey/AI-Ching-Mobile)
