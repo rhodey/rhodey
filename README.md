@@ -9,7 +9,6 @@ OSS when available 🚀
 + [rhodey.org](https://github.com/rhodey/rhodey.org)
 
 ## Crypto
-+ [lock.host](https://github.com/rhodey/lock.host)
 + [tinyraftplus](https://github.com/rhodey/tinyraftplus)
 + [sqlitesuperfs](https://github.com/rhodey/sqlitesuperfs)
 + [limit-order-book](https://github.com/rhodey/limit-order-book)
