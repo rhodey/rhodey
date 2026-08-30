@@ -18,7 +18,7 @@ OSS when available 🚀
 + [radiowitness](https://github.com/rhodey/radiowitness)
 
 ## Fun
-+ [bizcardz.ai](https://github.com/rhodey/bizcardz.ai)
++ [bizcardz.ai](https://bizcardz.ai/)
 + [hecate.video](https://github.com/rhodey/hecate)
 + [dogecoincalendar.com](https://github.com/rhodey/dogecoincalendar.com)
 + [AI-Ching-PDF](https://github.com/rhodey/AI-Ching-PDF)
