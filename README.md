@@ -17,6 +17,10 @@ OSS when available 🚀
 + [rtl_p25](https://github.com/rhodey/rtl_p25)
 + [radiowitness](https://github.com/rhodey/radiowitness)
 
+## Raft
++ [MonsterFt](https://github.com/rhodey/monsterft)
++ [TinyRaftPlus](https://github.com/rhodey/tinyraftplus)
+
 ## Fun
 + [bizcardz.ai](https://bizcardz.ai/)
 + [hecate.video](https://github.com/rhodey/hecate)
