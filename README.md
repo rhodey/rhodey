@@ -7,6 +7,10 @@ OSS when available 🚀
 + [mdpage](https://github.com/rhodey/mdpage)
 + [rhodey.org](https://github.com/rhodey/rhodey.org)
 
+## Raft
++ [MonsterFt](https://github.com/rhodey/monsterft)
++ [TinyRaftPlus](https://github.com/rhodey/tinyraftplus)
+
 ## Crypto
 + [IPFS-boot](https://github.com/rhodey/IPFS-boot)
 + [sqlitesuperfs](https://github.com/rhodey/sqlitesuperfs)
@@ -16,10 +20,6 @@ OSS when available 🚀
 + [rtl_rs](https://github.com/rhodey/rtl_rs)
 + [rtl_p25](https://github.com/rhodey/rtl_p25)
 + [radiowitness](https://github.com/rhodey/radiowitness)
-
-## Raft
-+ [MonsterFt](https://github.com/rhodey/monsterft)
-+ [TinyRaftPlus](https://github.com/rhodey/tinyraftplus)
 
 ## Fun
 + [hecate.video](https://github.com/rhodey/hecate)
