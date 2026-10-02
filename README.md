@@ -22,7 +22,6 @@ OSS when available 🚀
 + [TinyRaftPlus](https://github.com/rhodey/tinyraftplus)
 
 ## Fun
-+ [bizcardz.ai](https://bizcardz.ai/)
 + [hecate.video](https://github.com/rhodey/hecate)
 + [dogecoincalendar.com](https://github.com/rhodey/dogecoincalendar.com)
 + [AI-Ching-PDF](https://github.com/rhodey/AI-Ching-PDF)
