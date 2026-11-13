@@ -24,5 +24,4 @@ OSS when available 🚀
 ## Fun
 + [aifren](https://github.com/rhodey/aifren)
 + [hecate.video](https://github.com/rhodey/hecate)
-+ [dogecoincalendar.com](https://github.com/rhodey/dogecoincalendar.com)
 + [AI-Ching-Mobile](https://github.com/rhodey/AI-Ching-Mobile)
