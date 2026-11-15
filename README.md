@@ -12,9 +12,9 @@ OSS when available 🚀
 + [MonsterVfs](https://github.com/rhodey/monstervfs)
 
 ## Crypto
++ [AttestLink](https://github.com/rhodey/AttestLink)
 + [IPFS-boot](https://github.com/rhodey/IPFS-boot)
 + [sqlitesuperfs](https://github.com/rhodey/sqlitesuperfs)
-+ [limit-order-book](https://github.com/rhodey/limit-order-book)
 
 ## Radio
 + [rtl_rs](https://github.com/rhodey/rtl_rs)
